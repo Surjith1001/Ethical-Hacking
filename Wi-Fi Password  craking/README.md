@@ -11,8 +11,9 @@ Terminal Commands:
      airodump-ng wlan0mon
 
 
+
 <img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/4b917857-302b-4641-9302-cde9918ce22b">
-<img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/557ef884-d527-40d1-91ef-48d815da9082">
+<img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/171bdeda-8442-4751-9830-a13bcf55f7c4">
 
 In new terminal:
 
