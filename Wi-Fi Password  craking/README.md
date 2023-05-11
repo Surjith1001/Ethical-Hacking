@@ -10,7 +10,8 @@ Terminal Commands:
      airmon-ng start wlan0
      airodump-ng wlan0mon
 
-<img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/ebac1f67-7ed3-4ce9-8c75-d15c8d5d8e7">
+
+<img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/4b917857-302b-4641-9302-cde9918ce22b">
 <img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/557ef884-d527-40d1-91ef-48d815da9082">
 
 In new terminal:
