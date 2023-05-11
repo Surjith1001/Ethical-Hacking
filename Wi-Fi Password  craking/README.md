@@ -25,8 +25,7 @@ In new terminal:
 After running the above command there will be certain .csv and .cap files created based on the (hand_shake file name) name specified.
 
 <img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/016a13a7-d958-40a9-967a-68d11028a294">
-<img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/50cf51ff-d8b3-480c-8be4-8198d7029a59">
-
+<img src="https://github.com/Surjith1001/Ethical-Hacking/assets/125909533/bd578fe5-7835-434a-9b05-94b36d0979d6">
 For Deauthentication attack open new terminal:
 
     aireplay-ng --deauth 0 -a (Target Bssid) wlan0mon 
